@@ -1,11 +1,11 @@
 # LIBRARY-DATABASE-MANAGEMENT-SYSTEM
 This project is a Library Management System that allows for efficient management of a library's operations. It provides functionalities to track books, customers, employees, book issuance, and returns. The system, done using SQL, maintains a comprehensive database of books, their availability status, rental cost, and other relevant details. It also enables effective management of customers and employees associated with the library.
 
-Database Setup
+#Database Setup
 
 Create a new database named "Library" to store the information.
 
-Features
+#Features
 
 Book Management: Add, update, and remove books from the library's collection. Track book details such as title, category, rental price, availability status, author, and publisher.
 
@@ -17,7 +17,7 @@ Book Issuance and Returns: Track the issuance and return of books by customers. 
 
 Branch Management: Maintain information about library branches, including branch numbers, manager assignments, addresses, and contact details.
 
-Queries and Analysis
+#Queries and Analysis
 
 The project includes various SQL queries and data analysis tasks to extract valuable insights from the library's data. Some of the key queries implemented include:
 
